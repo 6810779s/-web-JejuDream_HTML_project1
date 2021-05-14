@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap'); /*폰트*/
+
 *{
   margin: 0;
   padding: 0;
@@ -17,6 +18,7 @@ ul{
   margin: 0 auto;
   width: 1200px;
 }
+
 /* 헤더 영역 */
 header{
   width: 100%;
